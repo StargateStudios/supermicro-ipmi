@@ -5,7 +5,7 @@ Simple module for accessing and controlling the IPMI interface on Supermicro mot
 ## Installation
 
 ```
-npm install supermicro-ipmi
+npm i -S git+https://<AccessToken>:x-oauth-basic@github.com/StargateStudios/supermicro-ipmi.git
 ```
 
   
