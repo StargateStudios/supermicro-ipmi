@@ -1,5 +1,5 @@
 {
-  "name": "supermicro-ipmi",
+  "name": "@vos/supermicro-ipmi",
   "version": "0.0.2",
   "description": "Simple module for accessing and controlling the IPMI interface on Supermicro motherboards",
   "main": "./lib/apc.js",
@@ -8,15 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/phillipsnick/supermicro-ipmi.git"
+    "url": "https://github.com/StargateStudios/supermicro-ipmi.git"
   },
   "keywords": [
     "supermicro",
     "ipmi",
     "remote"
   ],
-  "author": "Nick Phillips <nick@linkstudios.co.uk>",
-  "license": "MIT",
   "dependencies": {
     "request": "^2.40.0",
     "xml2js": "^0.4.4"
